@@ -2,7 +2,6 @@
 
 **Case snapshot:** October 2026  
 **Decision under review:** Prioritise Bristol for site search and diligence; authorise **one pilot store only if site-level investment gates are satisfied**.  
-**Scope:** Challenge the evidence, calculations, interpretation and proposed actions—not just the slide-deck narrative.
 
 ## 1. Executive recommendation and boundaries
 
@@ -33,13 +32,13 @@
 
 `PASS` refers to an arithmetic or model-treatment check, **not** verification of the underlying commercial assumptions. For workbook-level tests, see `10_Formula_QA`, `02_Sensitivity` and `12_Publication_Check` in the Excel model.
 
-## 3. Challenge the recommendation: five questions
+## 3. Key challenges to the recommendation
 
 ### Q1. Is Bristol first because of a subjective scoring choice?
 
-**Partly:** weights and some proxies are judgemental. Six alternative weightings still put Bristol first among four complete cities, but the Economics-heavy margin against Birmingham is small. A different evidence base, normalisation or set of weights could change the outcome.
+**Decision response:** The city rankings depend partly on judgement-based weights and proxy measures. Although Bristol ranks first under all six tested weighting scenarios, its lead over Birmingham narrows to approximately 2.04 points when the Economics dimension receives a 50% weighting.
 
-**Decision response:** Use the score to allocate diligence effort, not as a stand-alone investment hurdle.
+This indicates that Bristol's position is relatively robust within the tested scenarios but remains sensitive to the underlying scoring methodology. The ranking is therefore most useful for prioritising further investigation rather than determining investment approval.
 
 ### Q2. Why is Manchester not ranked? Could it beat Bristol?
 
@@ -49,9 +48,9 @@ Manchester's comparable Economics score is missing. It is **not eliminated**. Un
 
 ### Q3. Does Bristol's £17.4k contribution justify a lease?
 
-**No.** The £17.4k is a known-cost-only illustrative contribution after asking rent; business rates and service charges are unresolved. It is not a fully loaded operating profit or a return on the illustrative £304k opening investment.
+**Decision response:** The illustrative Bristol store generates £17,383 in annual contribution after deducting the representative asking rent. However, this excludes unverified business rates and service charges and therefore cannot be interpreted as fully loaded profitability.
 
-**Decision response:** Require a complete site P&L, cash-flow and downside investment case before lease approval.
+The estimated opening cash requirement of £304,000 further highlights the importance of assessing capital efficiency and downside risk. A lease commitment would require a complete site-level P&L, cash-flow forecast and investment appraisal using validated commercial assumptions
 
 ### Q4. Are 300 transactions/day and £5.38 average ticket defensible forecasts?
 
@@ -77,7 +76,7 @@ Capital is limited and material demand, occupancy and execution uncertainties re
 
 **No numeric go/no-go thresholds are presented as validated**: management would need to define its hurdle rate, acceptable payback and operating KPI gates before approving a real project.
 
-## 5. Red-team alternative outcomes
+## 5. Alternative outcomes and decision risks.
 
 - **Birmingham overtakes Bristol:** If actual Bristol occupancy and operating costs exceed assumptions, or Birmingham offers a better negotiated site and stronger measured conversion, Birmingham could be preferable despite its lower screening score.
 - **Manchester re-enters:** New comparable occupancy evidence could produce a high Economics score and warrant rescoring.
@@ -85,22 +84,7 @@ Capital is limited and material demand, occupancy and execution uncertainties re
 - **Demand is weaker than expected:** A smaller format, revised location, delayed entry or no entry could dominate the base-case pilot.
 - **Source refresh changes the rankings:** Changes to competitors, property availability or source definitions require documented model and deck updates.
 
-## 6. Publication consistency checklist
-
-Before making the GitHub repository public, confirm that:
-
-- [ ] The deck, README, methodology and model use **Bristol as a provisional priority**, not an unconditional investment approval.
-- [ ] Manchester is **unranked / active challenger**, not fifth.
-- [ ] All six sensitivity scenarios include Edinburgh's valid zero Economics score.
-- [ ] The £17,383 figure is labelled **known-cost-only**, not net profit or fully loaded return.
-- [ ] Any deck slide showing post-property profit is updated to match the latest model's missing-cost treatment.
-- [ ] The £304,000 opening requirement is clearly labelled illustrative.
-- [ ] Labour rules and assumptions are reconciled before presenting a decision-grade P&L.
-- [ ] Official-rule references and individual data-source links/dates are checked or explicitly marked outstanding.
-- [ ] Canonical repository filenames and relative links work.
-- [ ] No claim implies that Bean & Co. is a real client or that the author had access to proprietary trading data.
-
-## 7. Final defensible answer
+## 6. Final defensible answer
 
 > **Prioritise Bristol for the next stage of market-entry due diligence, rather than committing capital immediately.** It leads the available weighted market screen and all six predefined sensitivity scenarios among fully scored cities. Begin with a single, KPI-gated pilot only if a specific Bristol property clears fully loaded commercial and financial hurdles. Keep Manchester under active review until its missing occupancy evidence is resolved, and retain Birmingham as a credible alternative.
 

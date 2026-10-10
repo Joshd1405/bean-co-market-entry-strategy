@@ -4,7 +4,7 @@
 **Status:** Independent, hypothetical strategy consulting portfolio case  
 **Companion files:** [`methodology.md`](methodology.md) · [`recommendation_qa.md`](recommendation_qa.md) · [`../data/source_log.xlsx`](../data/source_log.xlsx)
 
-> **Interpretation rule:** A correctly calculated number is not necessarily an observed fact or an investable return. Bean & Co. is fictional; its assumed operations and investment economics are illustrative.
+This document distinguishes externally sourced evidence from hypothetical operating assumptions and modelled outputs. It also identifies the principal uncertainties affecting the market-entry recommendation and the additional evidence required for investment approval.
 
 ## 1. What is assumed versus evidenced?
 
@@ -28,7 +28,7 @@
 | Business rates | 2026/27 framework in `13_Rates_2026_27` | Statutory framework + conditional calculation | **Property-specific rateable value and relief eligibility missing** |
 | Service charge | Not verified for Bristol example | Missing evidence | **Must not be silently treated as zero** |
 
-The classifications above describe the provenance of the case inputs. Consult `source_log.xlsx` for the underlying evidence taxonomy and unresolved source references.
+The classifications above describe the provenance of the case inputs.
 
 ## 2. Financial model: what the numbers mean
 
@@ -51,7 +51,7 @@ The mature-store illustrative base case is:
 | Contribution after *known* occupancy costs | **£17,383.38** | Pre-property contribution − asking rent; **not fully loaded** |
 | Opening cash requirement | **£304,000** | Illustrative, not a validated investment budget |
 
-**Critical boundary:** £17,383.38 is *not* net profit, EBITDA, free cash flow, a verified site-level return or a lease approval metric. It omits unresolved occupancy components (notably rates and service charges) and does not establish financing, depreciation, taxation or capital recovery. The latest model intentionally leaves **fully loaded post-property contribution blank** when required property-cost inputs are missing. The separately labelled known-cost contribution is retained for transparency only.
+£17,383.38 is *not* net profit, EBITDA, free cash flow, a verified site-level return or a lease approval metric. It omits unresolved occupancy components (notably rates and service charges) and does not establish financing, depreciation, taxation or capital recovery. The latest model intentionally leaves **fully loaded post-property contribution blank** when required property-cost inputs are missing. The separately labelled known-cost contribution is retained for transparency only.
 
 A 10% transaction-volume test (300 to 330/day) demonstrates formula linkage, not real-world demand validation. In that test the labour assumption stays fixed, which may overstate incremental contribution at higher sales.
 
@@ -86,13 +86,13 @@ Other material diligence gaps include:
 5. Complete source URLs, publication dates and refresh dates for some external observations.
 6. A comparable Manchester café-scale property to complete the five-city screen.
 
-## 6. Decision implications
+6. Implications for the recommendation
 
-**Supported:** Bristol is the strongest **provisional screening priority** among cities with complete modelled scores; a one-store, gated pilot is a defensible next step for diligence.
+The analysis supports Bristol as the leading market for further investigation among the four cities with complete screening scores. However, the available evidence is insufficient to establish the commercial viability of any individual property.
 
-**Not supported:** A claim that Bristol is definitely the best UK market, that the example Whiteladies property is investable, that £17.4k is a fully loaded annual return, or that Bean & Co. should sign a lease immediately.
+The proposed entry strategy therefore prioritises site-level validation before capital commitment. This includes confirming occupancy costs, testing local customer demand, validating staffing requirements and preparing a fully costed investment case.
 
-**Required before commitment:** A property-specific, fully loaded P&L and investment case with validated demand, capex, occupancy and staffing inputs. If Bristol fails those tests, reconsider Birmingham and complete Manchester's missing Economics assessment.
+If Bristol fails to meet the required investment criteria, Birmingham remains an alternative for further consideration, while Manchester requires additional property evidence before it can be ranked.
 
 ---
 

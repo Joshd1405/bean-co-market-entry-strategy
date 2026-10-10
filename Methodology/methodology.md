@@ -6,7 +6,7 @@
 **Tools:** Microsoft Excel, public-source desk research, structured strategic analysis  
 **Decision:** Prioritise Bristol for site-level due diligence; do not approve a lease until commercial and financial hurdles are met.
 
-> **Important:** Bean & Co. is fictional. The project is a demonstration of consulting-style problem structuring, market screening, financial modelling and recommendation development. Assumed company operations, sales, staffing, costs and investment requirements are not observations of a real business. This is not a live investment recommendation.
+> **Important:** Bean & Co. is a hypothetical business created for this independent case study. Company-specific operating and financial inputs are illustrative assumptions, while external market indicators are drawn from public sources.
 
 ## 1. Business question and decision scope
 
@@ -219,8 +219,6 @@ bean-co-market-entry-strategy/
 3. Review `data/source_log.xlsx` for evidence classification, audit findings and open source-verification items.
 4. Read this document for the analytical logic and decision boundaries.
 
-**Versioning principle:** Use one canonical model filename in the published repository. The October 2026 case snapshot is frozen for presentation; material factual or formula corrections should be logged rather than silently changing headline results.
-
 ---
 
-*This project was developed independently for career-portfolio purposes. It does not represent work commissioned by a real company, verified store trading results, or financial advice.*
+*This project was developed independently, It does not represent work commissioned by a real company, verified store trading results, or financial advice.*
