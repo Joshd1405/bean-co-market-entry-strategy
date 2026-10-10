@@ -195,23 +195,6 @@ The conclusions are therefore conditional and deliberately narrower than a real-
 
 ## 11. Reproducibility and repository navigation
 
-Recommended repository structure:
-
-```text
-bean-co-market-entry-strategy/
-├── README.md
-├── presentation/
-│   └── Bean_and_Co_Market_Entry_Strategy.pdf
-├── model/
-│   └── Bean_and_Co_Market_Entry_Model.xlsx
-├── data/
-│   └── source_log.xlsx
-└── methodology/
-    ├── methodology.md
-    ├── assumptions_and_limitations.md
-    └── recommendation_qa.md
-```
-
 **Suggested review order:**
 
 1. Read the final presentation for the executive storyline and conditional recommendation.
